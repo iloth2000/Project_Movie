@@ -331,7 +331,7 @@
 
 									<div class="col-12 col-sm-8">
 										<div class="card__content">
-											<h3 class="card__title"><a href="#">I Dream in Another Language</a></h3>
+											<h3 class="card__title"><a href="#">I Dream in Another </a></h3>
 											<span class="card__category">
 												<a href="#">Action</a>
 												<a href="#">Triler</a>
