@@ -15,7 +15,7 @@ class CreateSeatTypesTable extends Migration
     {
         Schema::create('seat_types', function (Blueprint $table) {
             $table->id();
-            $table->string('seat_types', 255);
+            $table->string('seat_types');
             $table->unsignedBigInteger('price');
             $table->timestamps();
             $table->softDeletes();
